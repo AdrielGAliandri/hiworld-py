@@ -37,8 +37,8 @@ Seleccionar el intérprete de Python en VS Code
 Ejecutar el programa
 
 Opción A — Botón "Run" de VS Code
-- Si tienes la extensión instalada, verás un botón de "play" en la esquina superior derecha.
-- Haz clic y se ejecutará tu script en la terminal integrada.
+Si tienes la extensión instalada, verás un botón de "play" en la esquina superior derecha.
+Haz clic y se ejecutará tu script en la terminal integrada.
 
 Opción B — Desde la terminal integrada
 1. Abre la terminal en VS Code (`Ctrl+ñ` o *View → Terminal*).
